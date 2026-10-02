@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jnana-ai-eng.github.io/sitemap-index.xml
