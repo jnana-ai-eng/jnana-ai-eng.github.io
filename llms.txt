@@ -14,7 +14,7 @@ Comfortable owning systems end-to-end, from multi-tenant SaaS architecture and o
 - [Portfolio](https://jnana-ai-eng.github.io/): Single-page portfolio covering about, skills, experience, projects and contact
 - [Resume (PDF)](https://jnana-ai-eng.github.io/Jnanaranjan_Sahoo_resume_AIML.pdf): Current résumé
 - [GitHub](https://github.com/jnana-ai-eng): Code and open-source work
-- [LinkedIn](https://linkedin.com/in/jnanaranjan-sahoo): Professional profile
+- [LinkedIn](https://www.linkedin.com/in/jnanaranjan-sahoo): Professional profile
 
 ## Experience
 
