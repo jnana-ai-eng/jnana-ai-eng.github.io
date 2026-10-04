@@ -1,0 +1,82 @@
+# Jnanaranjan Sahoo — AI / Backend Software Engineer
+
+> Software Engineer specializing in production AI systems — RAG pipelines, sub-second real-time voice agents, and computer vision models on async Python/FastAPI and self-hosted LLM infrastructure.
+
+Bhubaneswar, Odisha, India · Available for opportunities · Open to remote · sahoojnana3002@gmail.com
+
+## About
+
+Software Engineer specializing in production AI systems — RAG pipelines, real-time voice agents, and computer vision — built on async Python/FastAPI and self-hosted LLM infrastructure.
+
+Comfortable owning systems end-to-end, from multi-tenant SaaS architecture and on-premise deployment to sub-second voice pipelines that run without third-party APIs for data-sensitive clients. AWS Certified in Cloud Practitioner and AI Practitioner.
+
+- 2x: AWS Certified
+- < 1s: Voice AI Latency
+- AI & Backend: Focus
+
+## Experience
+
+### Software Engineer — Skillablers Technologies Pvt. Ltd.
+
+Jun 2025 — May 2026 · 1 year · Bangalore
+
+- Built SurveyBot: a real-time conversational survey agent on LiveKit with sub-1-second response latency using Sarvam and Gemini models.
+- Designed & deployed an on-premise Bhagavad Gita RAG system using Ollama-served LLMs (zero external API calls, <2s cached response).
+- Engineered self-hosted AI infra (Ollama behind LiteLLM proxy, Kokoro, edge-tts, MMS-TTS Odia) and an IndicDLP e-paper digitization platform.
+- Developed Flutter face-recognition pipeline (Google ML Kit + MobileFaceNet TFLite), EfficientNet image similarity, YOLO proctoring, and LLM features for Beyond Resume.
+
+## Skills
+
+### GenAI & LLM
+
+RAG Pipelines, LangChain, LangGraph, AI Agents, Ollama, LiteLLM, Embeddings, Vector Search
+
+### Voice & Vision
+
+LiveKit, STT / TTS Pipelines, PyTorch, EfficientNet, MobileFaceNet, YOLO, TFLite
+
+### Backend & Languages
+
+Python, FastAPI (async), Node.js, Express.js, React, Next.js, REST APIs, WebSockets
+
+### Cloud, DevOps & DBs
+
+AWS (EC2), Docker Compose, Nginx, PostgreSQL, PGVector, Redis, MinIO, n8n
+
+## Projects
+
+### Swaram — Multi-Tenant Conversational Voice AI Platform
+
+Multi-tenant voice AI platform with bring-your-own-carrier SIP telephony, LiveKit Agents runtime with Sarvam & Gemini, pgvector RAG, and Razorpay billing.
+
+- Tech: FastAPI, LiveKit, Next.js, PostgreSQL/pgvector, Redis, AWS EC2
+- Link: https://jnana-ai-eng.github.io/#projects
+
+### Data Analysis Agent — LangGraph Multi-Tool Agent
+
+Autonomous LangGraph agent profiling uploaded datasets, writing and executing pandas/matplotlib code in isolated E2B sandboxes with inline streaming charts.
+
+- Tech: LangGraph, Gemini, FastAPI, E2B Sandbox, Docker, Nginx
+- Link: https://jnana-ai-eng.github.io/#projects
+
+### On-Premise Museum RAG System
+
+Self-hosted conversational RAG system for museum visitors asking questions about Bhagavad Gita — 100% in-house with Ollama LLMs and sub-2s response caching.
+
+- Tech: Ollama, LiteLLM, RAG, FastAPI, Python
+- Link: https://jnana-ai-eng.github.io/#projects
+
+### E-Paper Digitization & Layout Detection
+
+Full-stack newspaper digitization engine using a fine-tuned IndicDLP layout detection model, Hetzner object storage, and interactive article crop viewer.
+
+- Tech: Computer Vision, IndicDLP, PostgreSQL, React, Python
+- Link: https://jnana-ai-eng.github.io/#projects
+
+## Contact
+
+- Email: sahoojnana3002@gmail.com
+- [Portfolio](https://jnana-ai-eng.github.io/)
+- [Resume (PDF)](https://jnana-ai-eng.github.io/Jnanaranjan_Sahoo_resume_AIML.pdf)
+- [GitHub](https://github.com/jnana-ai-eng)
+- [LinkedIn](https://linkedin.com/in/jnanaranjan-sahoo)
