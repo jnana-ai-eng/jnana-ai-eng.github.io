@@ -77,6 +77,5 @@ Full-stack newspaper digitization engine using a fine-tuned IndicDLP layout dete
 
 - Email: sahoojnana3002@gmail.com
 - [Portfolio](https://jnana-ai-eng.github.io/)
-- [Resume (PDF)](https://jnana-ai-eng.github.io/Jnanaranjan_Sahoo_resume_AIML.pdf)
 - [GitHub](https://github.com/jnana-ai-eng)
 - [LinkedIn](https://www.linkedin.com/in/jnanaranjan-sahoo)
