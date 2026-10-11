@@ -1,31 +1,29 @@
 # Jnanaranjan Sahoo
 
-> AI / Backend Software Engineer based in Bhubaneswar, Odisha, India. Software Engineer specializing in production AI systems — RAG pipelines, sub-second real-time voice agents, and computer vision models on async Python/FastAPI and self-hosted LLM infrastructure.
+> Full-Stack & AI Engineer based in Odisha, India. I build web apps and production AI systems: LLM assistants, voice agents and computer vision.
 
-Comfortable owning systems end-to-end, from multi-tenant SaaS architecture and on-premise deployment to sub-second voice pipelines that run without third-party APIs for data-sensitive clients. AWS Certified in Cloud Practitioner and AI Practitioner.
+I spent a year at Skillablers in Bangalore shipping production AI systems: a real-time voice agent, a self-hosted question-answering assistant and computer-vision features. I'm also building Swaram, a voice AI platform for small Indian businesses, as my own product. I'm AWS Certified as a Cloud Practitioner and an AI Practitioner.
 
-- Roles: AI Software Engineer, Backend Software Engineer, RAG & Voice AI Specialist, LLM Systems Architect
-- Core skills: Python, FastAPI, LangChain, LangGraph, LiveKit, RAG, PyTorch, Docker, PostgreSQL, PGVector, Redis, AWS, Ollama, Next.js
-- Status: Available for opportunities; open to remote
+- Core skills: Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, Redis, Docker, AWS, Cloudflare, LangGraph, RAG, LiveKit
+- Languages: English · Hindi · Odia
 - Contact: sahoojnana3002@gmail.com
 
 ## Profile
 
-- [Portfolio](https://jnana-ai-eng.github.io/): Single-page portfolio covering about, skills, experience, projects and contact
+- [Portfolio](https://jnana-ai-eng.github.io/): Single-page site: about, skills, experience, selected work and contact
 - [GitHub](https://github.com/jnana-ai-eng): Code and open-source work
 - [LinkedIn](https://www.linkedin.com/in/jnanaranjan-sahoo): Professional profile
 
 ## Experience
 
-- [Software Engineer — Skillablers Technologies Pvt. Ltd.](https://jnana-ai-eng.github.io/#experience): Jun 2025 — May 2026, Bangalore. Built SurveyBot: a real-time conversational survey agent on LiveKit with sub-1-second response latency using Sarvam and Gemini models.
+- [Software Engineer — Skillablers Technologies Pvt. Ltd.](https://jnana-ai-eng.github.io/#experience): Jun 2025 — May 2026, Bangalore. Built a real-time conversational voice agent for automated surveys that replies in under a second (LiveKit, Sarvam, Gemini).
 
 ## Projects
 
-- [Swaram — Multi-Tenant Conversational Voice AI Platform](https://jnana-ai-eng.github.io/#projects): Multi-tenant voice AI platform with bring-your-own-carrier SIP telephony, LiveKit Agents runtime with Sarvam & Gemini, pgvector RAG, and Razorpay billing. Tech: FastAPI, LiveKit, Next.js, PostgreSQL/pgvector, Redis, AWS EC2.
-- [Data Analysis Agent — LangGraph Multi-Tool Agent](https://jnana-ai-eng.github.io/#projects): Autonomous LangGraph agent profiling uploaded datasets, writing and executing pandas/matplotlib code in isolated E2B sandboxes with inline streaming charts. Tech: LangGraph, Gemini, FastAPI, E2B Sandbox, Docker, Nginx.
-- [On-Premise Museum RAG System](https://jnana-ai-eng.github.io/#projects): Self-hosted conversational RAG system for museum visitors asking questions about Bhagavad Gita — 100% in-house with Ollama LLMs and sub-2s response caching. Tech: Ollama, LiteLLM, RAG, FastAPI, Python.
-- [E-Paper Digitization & Layout Detection](https://jnana-ai-eng.github.io/#projects): Full-stack newspaper digitization engine using a fine-tuned IndicDLP layout detection model, Hetzner object storage, and interactive article crop viewer. Tech: Computer Vision, IndicDLP, PostgreSQL, React, Python.
+- [Swaram — voice AI for small businesses](https://jnana-ai-eng.github.io/#projects): In development · own product. A multi-tenant SaaS that answers business phone calls in Indian languages. I'm building it end to end: FastAPI backend, Next.js dashboard, SIP telephony, background jobs, usage billing and RAG over each business's own data. Pitched at the BuildAI Tech Pitch Sprint, IIT Gandhinagar (2026). Tech: FastAPI, Next.js, PostgreSQL + pgvector, LiveKit, Redis, Razorpay.
+- [Drishti — on-premise video analytics](https://jnana-ai-eng.github.io/#projects): Proof of concept · own product. Plugs into existing CCTV cameras and runs detection on one low-cost edge device, so footage never leaves the site. Designed for warehouses, factories and retail. Tech: Python, Computer vision, YOLO, Edge AI, Docker.
+- [Data analysis agent](https://jnana-ai-eng.github.io/#projects): Personal project. Upload a dataset and ask questions in plain English. A LangGraph agent profiles the data, writes and runs pandas code in an isolated sandbox, and streams back charts and answers. Tech: LangGraph, Gemini, FastAPI, E2B sandbox, Docker.
 
 ## Optional
 
-- [Full profile](https://jnana-ai-eng.github.io/llms-full.txt): Complete experience highlights, all skill groups and project details in one document
+- [Full profile](https://jnana-ai-eng.github.io/llms-full.txt): About, all skill groups, experience highlights and project details in one document
