@@ -2,7 +2,7 @@
 
 > Full-Stack & AI Engineer based in Odisha, India. I build web apps and production AI systems: LLM assistants, voice agents and computer vision.
 
-I spent a year at Skillablers in Bangalore shipping production AI systems: a real-time voice agent, a self-hosted question-answering assistant and computer-vision features. I'm also building Swaram, a voice AI platform for small Indian businesses, as my own product. I'm AWS Certified as a Cloud Practitioner and an AI Practitioner.
+I spent a year at Skillablers in Bangalore shipping production AI systems: a real-time voice agent, a self-hosted question-answering assistant and computer-vision features. I'm also the AI & DevOps engineer of a product team building Swaram, a voice AI platform for small Indian businesses. I'm AWS Certified as a Cloud Practitioner and an AI Practitioner.
 
 - Core skills: Python, TypeScript, React, Next.js, FastAPI, Node.js, PostgreSQL, Redis, Docker, AWS, Cloudflare, LangGraph, RAG, LiveKit
 - Languages: English · Hindi · Odia
@@ -10,19 +10,23 @@ I spent a year at Skillablers in Bangalore shipping production AI systems: a rea
 
 ## Profile
 
-- [Portfolio](https://jnana-ai-eng.github.io/): Single-page site: about, skills, experience, selected work and contact
+- [Portfolio](https://jnana-ai-eng.github.io/): Home page: an overview of about, skills, experience, projects and contact
+- [About me](https://jnana-ai-eng.github.io/about/): About Jnanaranjan Sahoo, a full-stack and AI engineer from Odisha, India: background, AWS certifications, and the skills behind his web apps and AI systems.
+- [Experience](https://jnana-ai-eng.github.io/experience/): Jnanaranjan Sahoo's experience: a year at Skillablers shipping production AI, from a real-time voice agent to a self-hosted assistant and computer vision.
+- [Projects](https://jnana-ai-eng.github.io/projects/): Projects by Jnanaranjan Sahoo, built with his product team: Swaram (voice AI for small businesses), Drishti (video analytics) and Tattva (chat with your data).
+- [Get in touch](https://jnana-ai-eng.github.io/contact/): Get in touch with Jnanaranjan Sahoo, a full-stack and AI engineer in Odisha, India. Send a message through the form on this page, or write to him by email.
 - [GitHub](https://github.com/jnana-ai-eng): Code and open-source work
 - [LinkedIn](https://www.linkedin.com/in/jnanaranjan-sahoo): Professional profile
 
 ## Experience
 
-- [Software Engineer — Skillablers Technologies Pvt. Ltd.](https://jnana-ai-eng.github.io/#experience): Jun 2025 — May 2026, Bangalore. Built a real-time conversational voice agent for automated surveys that replies in under a second (LiveKit, Sarvam, Gemini).
+- [Software Engineer — Skillablers Technologies Pvt. Ltd.](https://jnana-ai-eng.github.io/experience/): Jun 2025 — May 2026, Bangalore. Built a real-time conversational voice agent for automated surveys that replies in under a second (LiveKit, Sarvam, Gemini).
 
 ## Projects
 
-- [Swaram — voice AI for small businesses](https://jnana-ai-eng.github.io/#projects): In development · own product. A multi-tenant SaaS that answers business phone calls in Indian languages. I'm building it end to end: FastAPI backend, Next.js dashboard, SIP telephony, background jobs, usage billing and RAG over each business's own data. Pitched at the BuildAI Tech Pitch Sprint, IIT Gandhinagar (2026). Tech: FastAPI, Next.js, PostgreSQL + pgvector, LiveKit, Redis, Razorpay.
-- [Drishti — on-premise video analytics](https://jnana-ai-eng.github.io/#projects): Proof of concept · own product. Plugs into existing CCTV cameras and runs detection on one low-cost edge device, so footage never leaves the site. Designed for warehouses, factories and retail. Tech: Python, Computer vision, YOLO, Edge AI, Docker.
-- [Data analysis agent](https://jnana-ai-eng.github.io/#projects): Personal project. Upload a dataset and ask questions in plain English. A LangGraph agent profiles the data, writes and runs pandas code in an isolated sandbox, and streams back charts and answers. Tech: LangGraph, Gemini, FastAPI, E2B sandbox, Docker.
+- [Swaram — voice AI for small businesses](https://jnana-ai-eng.github.io/projects/swaram/): Live · built with my team. A multi-tenant SaaS that answers business phone calls in Indian languages: FastAPI backend, Next.js dashboard, SIP telephony, background jobs, usage billing and RAG over each business's own data. Pitched at the BuildAI Tech Pitch Sprint, IIT Gandhinagar (2026). Tech: FastAPI, Next.js, PostgreSQL + pgvector, LiveKit, Redis, Razorpay.
+- [Drishti — on-premise video analytics](https://jnana-ai-eng.github.io/projects/drishti/): Pilot ready · built with my team. Plugs into existing CCTV cameras and runs detection on one low-cost edge device, so footage never leaves the site. Designed for warehouses, factories and retail. Tech: Python, Computer vision, YOLO, Edge AI, Docker.
+- [Tattva — chat with your data](https://jnana-ai-eng.github.io/projects/tattva/): In development · built with my team. Upload a dataset and ask questions in plain English. A LangGraph agent profiles the data, writes and runs pandas code in an isolated sandbox, and streams back charts and answers. Tech: LangGraph, Gemini, FastAPI, E2B sandbox, Docker.
 
 ## Optional
 
